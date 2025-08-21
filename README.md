@@ -50,7 +50,7 @@ Special thanks to:
 - [Substratum](https://github.com/substratum/substratum) — Overlay engine references  
 - [@DrDisagree](https://github.com/Mahmud0808) — Backend implementation support  
 
-## 💳 Purchase
+## ⬇️ Download
 Weeabooify is available for a **one-time purchase of $5**.  
 Support development and unlock all features via the following platforms:
 
