@@ -4,7 +4,7 @@
   ### Customize your Android with a <br> beautiful and aesthetic theme engine
 🌸 Weeabooify is a theme engine which that allows you to easily customize the style of the user interface, such as qs panel, lockscreen, icons, and more.
 
-<img src="preview.png" alt="Logo" width="100%"/>
+<img src="assets/resources/preview.png" alt="Logo" width="100%"/>
 </div>
 
 # 🛠 Requirements
@@ -31,3 +31,22 @@
 - [Substratum](https://github.com/substratum/substratum) for references on building overlays.
 - [@DrDisagree](https://github.com/Mahmud0808) for backend-like stuffs
 
+# Payment
+Weeabooify price is $5 for one time purchase, you can pay via bellow
+- Ko-FI
+- Patreon
+- Paypal
+- e-Wallet & Bank (contact me [@KaeruShi](https://t.me/kaerushi))
+
+# 🤔 FAQ
+<details>
+  <summary>Is my device supported?</summary>
+
+  - Weeabooify only supports for Pixel or AOSP custom rom based, not support for OEM ROMs like MIUI, OneUI, OxygenOS, ColorOS, iOS, etc.
+</details>
+
+<details>
+  <summary>How to fix bootloop/bsod?</summary>
+
+  - Enter safe mode or delete Weeabooify module in data/adb/modules/ using custom recovery.
+</details>
