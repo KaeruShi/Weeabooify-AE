@@ -4,13 +4,14 @@
   ### Customize your Android with a <br> beautiful and aesthetic theme engine
 🌸 Weeabooify is a theme engine which that allows you to easily customize the style of the user interface, such as qs panel, lockscreen, icons, and more.
 
+<img src="preview.png" alt="Logo" width="100%"/>
 </div>
 
 # 🛠 Requirements
 - AOSP Android 12+
 - [Magisk](https://github.com/topjohnwu/Magisk) (Recommended) / [KernelSU](https://github.com/tiann/KernelSU)
+- [LSPosed](https://github.com/JingMatrix/LSPosed)
 - Custom recovery supported by decryption (just in case if bootloop).
-- LSPosed
 
 # 🔧 Installation
 - Install the Weeaboooify app
@@ -19,10 +20,9 @@
 - Go back to module list and long press at Weeabooify then tap Re-optimize
 - Open Weeaboify grant all permissions then login to your account
 - Wait for installation finish then tap on reboot and enjoy!
-> [!TIP]
+> [!Note]
 >
-> KernelSU doesn't show root prompt. You will have to manually enable root access for Iconify from the KernelSU app itself.
-> In some cases, you may need to disable the `Umount modules by default` option from KernelSU settings if Weeabooify changes are not reflecting.
+> KSU users have to manually enable root access from the KernelSU app itself.
 
 # ❤️ Credits
 ### Special thanks to:
