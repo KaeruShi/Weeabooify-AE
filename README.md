@@ -21,7 +21,7 @@ Weeabooify is a powerful theme engine that allows you to easily customize your A
 - SystemUI tweaks  
 - And many more...  
 > [!Note]
-> You can check all features here
+> You can check all features [here](FEATURES-AE.md)
 
 
 
