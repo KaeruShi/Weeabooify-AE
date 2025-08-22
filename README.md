@@ -4,6 +4,7 @@
 ### Beautiful & Aesthetic Theme Engine for Android
 
 [![Platform](https://img.shields.io/badge/Android-12%2B-green?style=for-the-badge&logo=android)]()
+[![Sold](https://img.shields.io/badge/Sold-800%2B-orange?style=for-the-badge&logo=shopping-cart&logoColor=white)]()
 [![Telegram](https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/weeabooify)
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-0070ba?style=for-the-badge&logo=paypal)](https://paypal.me/kaerushi)
 
