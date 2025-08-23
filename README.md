@@ -45,6 +45,10 @@ Weeabooify is a powerful theme engine that allows you to easily customize your A
 > [!Note]  
 > For KernelSU users: root access must be manually enabled via the **KernelSU** app.
 
+## 🖼️ Preview
+For a detailed look at the **Weeabooify** app interface and features, please visit the [Preview Gallery](PREVIEW.md).  
+The gallery provides a comprehensive set of screenshots highlighting the app’s design, customization options, and user experience.
+
 ## ❤️ Credits
 Special thanks to:
 - [Android Open Source Project (AOSP)](https://source.android.com) — Android source code  
@@ -86,12 +90,6 @@ Support development and unlock all features via the following platforms:
   - **Anti-Entropy** → for Android 12+  
   - **Schicksal** → for Android 10 (Substratum)  
 - Each variant is sold separately.  
-
-</details>
-<details>
-<summary>🖼️ Where can I see previews?</summary>
-
-- You can check the preview showcase on our **Telegram channel**: [t.me/weeabooify](https://t.me/weeabooify)  
 
 </details>
 
